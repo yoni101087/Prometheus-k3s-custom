@@ -22,6 +22,7 @@ spec:
       operator: In
       values:
       - python-test-servicemonitor
+      - counterservice-servicemonitor
       - longhorn-prometheus-servicemonitor
       - kube-state-metrics
       - node-exporter
